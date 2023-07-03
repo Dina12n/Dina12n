@@ -2,7 +2,7 @@
 <h3 align="center">Back-end developer from Palestine</h3>
 
 
-<img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" /> 
+<img align="right" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" /> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dina12n&label=Profile%20views&color=0e75b6&style=flat" alt="dina12n" /> </p>
 
